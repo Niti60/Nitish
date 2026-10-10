@@ -8,7 +8,7 @@ I enjoy solving real-world problems through clean code, practical engineering, a
 
 🌐 **Portfolio:** [nitishyadav.com](https://nitishyadav.com)
 
-💼 **Currently:** Full Stack Developer at Admeasy
+💼 **Currently:** Full Stack Developer & Ai engineer at Admeasy
 
 ---
 
